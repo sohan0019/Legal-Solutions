@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+.eb-garamond-text {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.poppins-text {
+  font-family: "Poppins", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.btn{
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  background-color: #B68C5A;
+  padding: 18px 30px;
+  border-radius: 10px;
+}
+.btn:hover{
+  color: #B68C5A;
+  background-color: #fff;
+  border: 1.5px solid #B68C5A;
+  transition-duration: 0.5s;
+}
+.dark1{
+  background-color: #111111;
+}
+.dark2{
+  color: 414040;
+}
+.dark3{
+  color: #707070;
+}
+
+.border5{
+  border-color:  #CFCFCF;
+}
+.dark5{
+  color: #CFCFCF;
+}
+.dark7{
+  background-color: #F3F3F3;
+}
